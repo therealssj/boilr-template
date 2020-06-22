@@ -1,13 +1,13 @@
 { 
-  	"Name": "Boilr Template",
-  	"Description": "Template to generate future boilr templates",
-  	"TemplateName": "boilr-template",
-  	"GithubReference": "therealssj/boilr-template",
-  	"Author": "therealssj <therealssj[at]protonmail.com>",
-    "Year": "2020",
-    "License": [
-        "Apache Software License 2.0",
-        "MIT", 
-        "GNU GPL v3.0"
-    ]
+  "Name": "Boilr Template",
+  "Description": "Template to generate future boilr templates",
+  "TemplateName": "boilr-template",
+  "GithubReference": "therealssj/boilr-template",
+  "Author": "therealssj <therealssj[at]protonmail.com>",
+  "Year": "2020",
+  "License": [
+    "Apache Software License 2.0",
+    "MIT", 
+    "GNU GPL v3.0"
+  ]
 }
