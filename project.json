@@ -1,9 +1,9 @@
 { 
-  	"ProjectName": "Boilr Template",
-  	"ProjectDescription": "Template to generate future boilr templates",
+  	"Name": "Boilr Template",
+  	"Description": "Template to generate future boilr templates",
   	"TemplateName": "boilr-template",
   	"GithubReference": "therealssj/boilr-template",
-  	"Authors": "therealssj <therealssj[at]protonmail.com>",
+  	"Author": "therealssj <therealssj[at]protonmail.com>",
     "Year": "2020",
     "License": [
         "Apache Software License 2.0",
